@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wellcome! This is my Machine learning practice from Kaggle 
 
 <!--
 **jaemyoung/jaemyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
